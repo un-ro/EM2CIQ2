@@ -7,3 +7,7 @@
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/361420/e6d3b9a06ff2497141e2ffe8a0fcd1c0f7b879c6.png" alt="Hello01"/>
   <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/632470/1108b516a2266b857d08c2a5f2e7854b14b87ad1.png" alt="Hello02"/>
 </p>
+
+
+### My status build
+![Greener](https://github.com/EM2CIQ2/greener/workflows/Auto%20commit/badge.svg) ![PL_W_TE](https://github.com/EM2CIQ2/wl_test_p/workflows/Auto%20commit/badge.svg)
