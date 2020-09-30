@@ -10,4 +10,5 @@
 
 
 ### My status build
-![Greener](https://github.com/EM2CIQ2/greener/workflows/Auto%20commit/badge.svg) ![PL_W_TE](https://github.com/EM2CIQ2/wl_test_p/workflows/Auto%20commit/badge.svg)
+![Greener](https://github.com/EM2CIQ2/greener/workflows/Auto%20commit/badge.svg)  
+![Private Commit](https://github.com/EM2CIQ2/wl_test_p/workflows/Private%20Commit/badge.svg)
