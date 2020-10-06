@@ -5,7 +5,7 @@ Informatics.
 > When I do, I do
 
 ## Occupant
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/googlemaps.svg" />](https://goo.gl/maps/3fGyHA2fNFeTP21JA)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/googlemaps.svg" />](https://goo.gl/maps/3fGyHA2fNFeTP21JA)  
   
 ## Technology Interest
 - Machine Learning
