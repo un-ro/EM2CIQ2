@@ -1,1 +1,1 @@
-![Unero's Metric](https://metrics.lecoq.io/un-ro?template=classic&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
+![My metrics](https://github.com/un-ro/un-ro/blob/master/github-metrics.svg)
