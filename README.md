@@ -7,4 +7,4 @@
 - 🌠 Jedi Wannabe
   
 ## My Stat
-![My metrics](https://github.com/un-ro/un-ro/blob/master/github-metrics.svg)
+![My metrics](github-metrics.svg)
