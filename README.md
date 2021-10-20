@@ -1,6 +1,6 @@
-## Stat, stat, stat
-![Unero's Github stats](https://github-readme-stats.vercel.app/api?username=un-ro&show_icons=true&theme=dracula)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=un-ro&layout=compact) -->
+![Github Profile](./assets/mygithub.gif)
+
+### Stat, stat, stat
 ![My metrics](github-metrics.svg)
  
 ### Views
